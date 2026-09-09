@@ -1,0 +1,12 @@
+node_modules
+dist/
+.wrangler/
+.next/
+.vinext/
+.pnpm-store/
+.env
+.env.*
+!.env.example
+*.log
+*.tsbuildinfo
+.DS_Store

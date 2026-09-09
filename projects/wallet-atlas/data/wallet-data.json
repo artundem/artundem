@@ -1,0 +1,31 @@
+{
+  "generatedAt": "2026-09-10T00:00:00.000Z",
+  "methodology": {
+    "recentTransactionsInspectedPerWallet": 0,
+    "directSolTransferMinimum": 0.01,
+    "activityWindowsDays": {
+      "activeTrade": 7,
+      "recentTrade": 30
+    },
+    "scopeNote": "Public source snapshot. Add your own research data; no private wallet dataset is included."
+  },
+  "counts": {
+    "total": 0,
+    "solana": 0,
+    "evm": 0,
+    "groups": 0,
+    "sideCandidates": 0,
+    "activeTrade": 0,
+    "activeNontrade": 0,
+    "nearTermInactive": 0,
+    "totalSol": 0
+  },
+  "evmWallets": [],
+  "wallets": [],
+  "groups": [],
+  "insights": {
+    "classifications": {},
+    "sideWalletChains": [],
+    "robinhoodArchive": []
+  }
+}

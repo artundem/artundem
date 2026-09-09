@@ -1,0 +1,1 @@
+ALTER TABLE `directory_people` ADD `note` text DEFAULT '' NOT NULL;

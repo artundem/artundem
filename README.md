@@ -8,9 +8,11 @@ Alongside my studies in the *Deutsches Recht* master's programme at the Universi
 
 | Project | What it explores | Built with |
 | :--- | :--- | :--- |
-| **[Wallet Radar](https://github.com/aaarrttun/wallet-radar-public)** | Read-only token and wallet research on Solana and Robinhood Chain, with explainable scoring and persistent evidence. | TypeScript · Node.js · PostgreSQL |
-| **[Wallet Atlas](https://github.com/aaarrttun/wallet-atlas)** | A wallet research workspace with a directory, portfolio views, and a Telegram activity tracker. | React · TypeScript · Cloudflare D1 |
+| **[Wallet Radar](https://github.com/aaarrttun/aaarrttun/tree/main/projects/wallet-radar)** | Read-only token and wallet research on Solana and Robinhood Chain, with explainable scoring and persistent evidence. | TypeScript · Node.js · PostgreSQL |
+| **[Wallet Atlas](https://github.com/aaarrttun/aaarrttun/tree/main/projects/wallet-atlas)** | A wallet research workspace with a directory, portfolio views, and a Telegram activity tracker. | React · TypeScript · Cloudflare D1 |
 | **[DAO Legal Research](https://github.com/aaarrttun/dao-legal-research)** | How DAOs fit into German and Turkish company law, with a look at Switzerland and Wyoming. | Comparative legal research · German |
+
+Both tools include source code, setup instructions, and tests in the [`projects/`](projects/) directory.
 
 ### Research
 

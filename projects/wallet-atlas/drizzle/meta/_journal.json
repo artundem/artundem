@@ -1,0 +1,76 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1785267791613,
+      "tag": "0000_living_hardball",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1785268378302,
+      "tag": "0001_lame_silk_fever",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1785354000000,
+      "tag": "0002_mavis_directory_cleanup",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1785371507311,
+      "tag": "0003_white_shinobi_shaw",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1785374910491,
+      "tag": "0004_short_the_spike",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1785381091637,
+      "tag": "0005_robust_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1785431629509,
+      "tag": "0006_jittery_wither",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1785438975463,
+      "tag": "0007_lovely_scarlet_witch",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1785439731826,
+      "tag": "0008_correct_bnb_trade_wallets",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1785531895278,
+      "tag": "0009_reclassify_unmatched_robinhood",
+      "breakpoints": true
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "wallet-radar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Read-only Solana and Robinhood Chain token, wallet and holder analysis agent.",
+  "type": "module",
+  "engines": {
+    "node": ">=22.5"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "start": "node dist/index.js",
+    "check": "npm run build",
+    "test": "node --test dist/scanner.test.js dist/token-scanner.test.js dist/scored-token-scanner.test.js dist/providers/helius.test.js dist/providers/robinhood-blockscout.test.js dist/telegram.test.js",
+    "telegram:setup": "node dist/telegram-setup.js",
+    "telegram:check": "node dist/telegram-cli.js check",
+    "telegram:poll": "node dist/telegram-cli.js poll",
+    "telegram:once": "node dist/telegram-cli.js run-once",
+    "db:local:setup": "node scripts/local-postgres.mjs setup",
+    "db:local:start": "node scripts/local-postgres.mjs start",
+    "db:migrate": "node scripts/db-migrate.mjs",
+    "db:check": "node scripts/db-check.mjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "gmgn-cli": "^1.5.2",
+    "pg": "^8.22.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/pg": "^8.20.3",
+    "embedded-postgres": "17.10.0-beta.17",
+    "typescript": "^5.8.3"
+  }
+}
