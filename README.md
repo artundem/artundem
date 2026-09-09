@@ -8,11 +8,11 @@ Alongside my studies in the *Deutsches Recht* master's programme at the Universi
 
 | Project | What it explores | Built with |
 | :--- | :--- | :--- |
-| **[Wallet Radar](https://github.com/aaarrttun/aaarrttun/tree/main/projects/wallet-radar)** | Read-only token and wallet research on Solana and Robinhood Chain, with explainable scoring and persistent evidence. | TypeScript · Node.js · PostgreSQL |
-| **[Wallet Atlas](https://github.com/aaarrttun/aaarrttun/tree/main/projects/wallet-atlas)** | A wallet research workspace with a directory, portfolio views, and a Telegram activity tracker. | React · TypeScript · Cloudflare D1 |
-| **[DAO Legal Research](https://github.com/aaarrttun/dao-legal-research)** | How DAOs fit into German and Turkish company law, with a look at Switzerland and Wyoming. | Comparative legal research · German |
+| **[Wallet Radar](https://github.com/artundem/artundem/tree/main/projects/wallet-radar)** | Read-only token and wallet research on Solana and Robinhood Chain, with explainable scoring and persistent evidence. | TypeScript · Node.js · PostgreSQL |
+| **[Wallet Atlas](https://github.com/artundem/artundem/tree/main/projects/wallet-atlas)** | A wallet research workspace with a directory, portfolio views, and a Telegram activity tracker. | React · TypeScript · Cloudflare D1 |
+| **[DAO Legal Research](https://github.com/artundem/dao-legal-research)** | How DAOs fit into German and Turkish company law, with a look at Switzerland and Wyoming. | Comparative legal research · German |
 
-Both tools include source code, setup instructions, and tests in the [`projects/`](https://github.com/aaarrttun/aaarrttun/tree/main/projects) directory.
+Both tools include source code, setup instructions, and tests in the [`projects/`](https://github.com/artundem/artundem/tree/main/projects) directory.
 
 ### Research
 
@@ -21,7 +21,7 @@ Seminar paper · University of Münster · June 2026
 
 The paper examines legal classification, organizational structure, and participant liability. The repository includes a public reading copy and summaries in **English, German, and Turkish**.
 
-[Read the paper →](https://github.com/aaarrttun/dao-legal-research/blob/main/paper/dao-legal-classification-demirkapi-2026.pdf)
+[Read the paper →](https://github.com/artundem/dao-legal-research/blob/main/paper/dao-legal-classification-demirkapi-2026.pdf)
 
 ### How I approach the work
 

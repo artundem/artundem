@@ -4,7 +4,7 @@
 
 Wallet Radar turns a token address into an evidence-backed set of wallet observations. It combines holder and trader discovery, a documented eligibility gate, explainable scoring, and PostgreSQL snapshots that preserve the research trail.
 
-Built by [Artun Demirkapı](https://github.com/aaarrttun). This repository is the public source snapshot of the research engine.
+Built by [Artun Demirkapı](https://github.com/artundem). This repository is the public source snapshot of the research engine.
 
 ## What it does
 
@@ -47,7 +47,7 @@ Historical v1 records keep their 43-point scale. The score is a research heurist
 Requires **Node.js 22.5+** and **pnpm**.
 
 ```bash
-git clone https://github.com/aaarrttun/aaarrttun.git artun-portfolio
+git clone https://github.com/artundem/artundem.git artun-portfolio
 cd artun-portfolio/projects/wallet-radar
 pnpm install --frozen-lockfile
 cp .env.example .env
@@ -87,5 +87,5 @@ Coverage depends on provider sampling and pagination. Wallet relationships are h
 
 ## Related work
 
-- [Wallet Atlas](https://github.com/aaarrttun/aaarrttun/tree/main/projects/wallet-atlas): wallet research workspace.
-- [DAO Legal Research](https://github.com/aaarrttun/dao-legal-research): German–Turkish comparative company-law study.
+- [Wallet Atlas](https://github.com/artundem/artundem/tree/main/projects/wallet-atlas): wallet research workspace.
+- [DAO Legal Research](https://github.com/artundem/dao-legal-research): German–Turkish comparative company-law study.

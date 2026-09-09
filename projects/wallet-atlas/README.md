@@ -4,7 +4,7 @@
 
 Wallet Atlas brings a wallet directory, portfolio views, and a Telegram activity tracker into one interface. It separates observed activity from inferred relationships so research can be revisited and refined.
 
-Built by [Artun Demirkapı](https://github.com/aaarrttun) with **React, TypeScript, Vinext, Drizzle, and Cloudflare D1**.
+Built by [Artun Demirkapı](https://github.com/artundem) with **React, TypeScript, Vinext, Drizzle, and Cloudflare D1**.
 
 ## What it does
 
@@ -31,7 +31,7 @@ flowchart LR
 Requires **Node.js 22.13+** and **pnpm**.
 
 ```bash
-git clone https://github.com/aaarrttun/aaarrttun.git artun-portfolio
+git clone https://github.com/artundem/artundem.git artun-portfolio
 cd artun-portfolio/projects/wallet-atlas
 pnpm install --frozen-lockfile
 pnpm test
@@ -63,5 +63,5 @@ Read-only chain access is used throughout. Wallet relationship labels are resear
 
 ## Related work
 
-- [Wallet Radar](https://github.com/aaarrttun/aaarrttun/tree/main/projects/wallet-radar): explainable wallet scoring and evidence snapshots.
-- [DAO Legal Research](https://github.com/aaarrttun/dao-legal-research): German–Turkish comparative company-law study.
+- [Wallet Radar](https://github.com/artundem/artundem/tree/main/projects/wallet-radar): explainable wallet scoring and evidence snapshots.
+- [DAO Legal Research](https://github.com/artundem/dao-legal-research): German–Turkish comparative company-law study.
