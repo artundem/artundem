@@ -36,3 +36,7 @@ The paper examines legal classification, organizational structure, and participa
 **Interests:** DAO governance · comparative company law · blockchain analytics · legal technology
 
 Open to conversations and collaboration around these topics.
+
+### Elsewhere
+
+[LinkedIn](https://de.linkedin.com/in/artun-demirkap%C4%B1-439ab1269) · [DAO paper](https://github.com/artundem/dao-legal-research/blob/main/paper/dao-legal-classification-demirkapi-2026.pdf)
