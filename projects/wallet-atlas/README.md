@@ -2,9 +2,13 @@
 
 **A workspace for organizing wallet research and inspecting onchain activity.**
 
+![Wallet Atlas — structured wallet research](public/og-wallet-atlas.png)
+
 Wallet Atlas brings a wallet directory, portfolio views, and a Telegram activity tracker into one interface. It separates observed activity from inferred relationships so research can be revisited and refined.
 
 Built by [Artun Demirkapı](https://github.com/artundem) with **React, TypeScript, Vinext, Drizzle, and Cloudflare D1**.
+
+The public edition includes **25 focused tests** covering Telegram parsing, event identity, presentation, and wallet naming.
 
 ## What it does
 

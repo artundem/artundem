@@ -6,6 +6,8 @@ Wallet Radar turns a token address into an evidence-backed set of wallet observa
 
 Built by [Artun Demirkapı](https://github.com/artundem). This repository is the public source snapshot of the research engine.
 
+The public edition includes **33 focused tests** for scanning, scoring, evidence handling, and the optional Telegram research inbox.
+
 ## What it does
 
 - Starts from a token address supplied by the operator.
